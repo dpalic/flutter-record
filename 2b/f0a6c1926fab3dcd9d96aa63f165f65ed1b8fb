@@ -1,0 +1,60 @@
+record_linux/lib/src/linux_recorder.dart
+  s_ec3b4c83e449e7::t_28706ce49c8de3 86,101,112-120,138-153,156,159-178,188,206-209
+  s_ec3b4c83e449e7::t_7a24d3e6f0fbf9 34-36,57-58,66-67
+  s_ec3b4c83e449e7::t_4b696c6d09569c 210
+record_linux/test/capture_pipeline_test.dart
+  s_ec3b4c83e449e7::t_0c1c7ac89f487f 430,437-481,488
+  s_ec3b4c83e449e7::t_afc5f566b14ea3 303-306
+  s_ec3b4c83e449e7::t_9631edd440a7f4 267-272,276-281,283-297,301-302,307-309,311-317,429
+  s_ec3b4c83e449e7::t_8a14c2f26521d2 104-114,274-275,299-300,348-349,371-372,398-399
+  s_ec3b4c83e449e7::t_ce345b362d1f25 553,574-578,581-610
+  s_ec3b4c83e449e7::t_ec88eb2ddc4921 562-563
+  s_ec3b4c83e449e7::t_ea92a18cf94e26 614-634
+  s_ec3b4c83e449e7::t_90190b2e604452 6,318-346,350-359,361-369,373-383,385-396,400-410,412-428
+  s_ec3b4c83e449e7::t_2854d90198888e 489-552,554-561,564-573,579-580,611-613
+  s_ec3b4c83e449e7::t_811d00a0d85e08 273,282,298,310,347,360,370,384,397,411
+  s_ec3b4c83e449e7::t_4ed9019ea2497d 431-436,482-487
+record_linux/lib/src/process_state.dart
+  s_ec3b4c83e449e7::t_45470b572ad149 1-44,50-76
+  s_ec3b4c83e449e7::t_ea92a18cf94e26 45-49
+record_linux/test/linux_recorder_test.dart
+  s_ec3b4c83e449e7::t_21282af39354a8 4,15,24,26-27,151-180,183-193,231
+  s_ec3b4c83e449e7::t_87c7e971c6548b 10-11,16-17,23,25,30-32,194-230
+  s_ec3b4c83e449e7::t_a039e1d866c11a 130-150,232
+  s_ec3b4c83e449e7::t_3d61fb6b48e619 14,28-29,33-36
+  s_ec3b4c83e449e7::t_4befa994d1fc3a 181-182
+record_linux/test/process_state_test.dart
+  s_ec3b4c83e449e7::t_afc5f566b14ea3 1-18,27-63,66-90
+  s_ec3b4c83e449e7::t_7f457df651127c 19-26
+  s_ec3b4c83e449e7::t_f793b5b8842139 65
+  s_ec3b4c83e449e7::t_ea92a18cf94e26 64
+record_linux/lib/src/capture_pipeline.dart
+  s_ec3b4c83e449e7::t_212ee88565dd2c 4,10-16,22-27,32-44,55,130,134-137,164-168,201-202,237,272-276,283-284,286,294,318-333,335-341,344-349,355,359,371-372,376-377,379,382-392
+  s_ec3b4c83e449e7::t_5a8ad8b6c4a2e5 56,61,172
+  s_ec3b4c83e449e7::t_97554fb4475f12 58-60,62-64,138-148,151-154,156,158
+  s_ec3b4c83e449e7::t_3655ef7a0eba15 169-171,204
+  s_ec3b4c83e449e7::t_29a6a450dd0efe 149-150
+  s_ec3b4c83e449e7::t_96eb89dbebbc41 343
+  s_ec3b4c83e449e7::t_78ccf1e92ca265 362-368,374-375
+  s_ec3b4c83e449e7::t_6ad9462bde1fbc 296,298-317,334,342,350-354,356-358,360-361,369-370,373,378,380-381
+  s_ec3b4c83e449e7::t_1cd41e931a0e54 191-200,217-229
+  s_ec3b4c83e449e7::t_acfc1f00e04b60 155,157
+  s_ec3b4c83e449e7::t_3d5f82a08c7c27 277-282,285
+  s_ec3b4c83e449e7::t_88a4cc6d26db95 57,159,203,295,297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2bf0a6c1926fab3dcd9d96aa63f165f65ed1b8fb",
+  "prompts": {},
+  "sessions": {
+    "s_ec3b4c83e449e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "066d3c97-296f-4dda-b1ba-3ed4968a0248",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Darko Palic <darko.palic@xenovation.com>"
+    }
+  }
+}
